@@ -1,0 +1,16 @@
+div.flex-container{
+    display: flex;
+    background-color: black ;
+    flex-direction: row;
+    flex-wrap: wrap
+    
+}
+
+div.a{
+    background-color: rgba(255, 0, 0, 0.418);
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}

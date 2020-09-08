@@ -1,0 +1,12 @@
+hr {
+    width: 500px;
+}
+
+hr.a {
+    width: 250px
+}
+hr.b {
+    width: 200px;
+}
+
+/* class không chứa số và dấu space*/

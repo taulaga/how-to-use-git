@@ -1,0 +1,35 @@
+div.num1{
+    display: flex;
+    width: 900px;
+    margin: auto;
+    justify-content: space-between;/*lấy khoảng cách giữa các cột*/
+    
+}
+
+div.num1 .a{
+    width: 15%;
+}
+div.num1 .b{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.num1 .b .b1{
+    width: 32%;
+}
+div.num1 .b .b2{
+    width: 32%;
+
+}
+div.num1 .b .b3{
+    width: 32%;
+}
+
+div.num1 .c{
+    width: 30%;
+}
+
+img{
+    width: 100%;
+}

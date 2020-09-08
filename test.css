@@ -1,0 +1,23 @@
+/*
+h1 {
+    color: blue;
+    font-weight: normal;
+
+}
+
+h2 {
+    color: pink ;
+    font-weight: normal;
+}
+*/
+
+#a1 {
+    color: pink;
+    font: 13px;
+}
+
+#a2 {
+    background-color: black;
+    color: white;
+    font: 20px;
+}

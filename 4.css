@@ -1,0 +1,22 @@
+div.chiacot{
+    display: flex;
+    width: 700px;
+    height: 163px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+
+div.trai{
+    width: 250px;
+    margin-right: 15px;
+}
+
+div.phai{
+    width: 435px;
+
+}
+
+img{
+    width: 200px;
+}

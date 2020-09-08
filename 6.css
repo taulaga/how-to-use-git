@@ -1,0 +1,12 @@
+/*Cách viết theo kiểu cha con. Dấu cách*/
+div.so1 h3{
+    color: red;
+}
+
+div.so2 h3{
+    color: green;
+}
+
+div.so1 h3 i{
+    color: pink;
+}
